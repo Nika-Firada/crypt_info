@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypt_info/static/css/main.3209fbff.css",
+    "main.js": "/crypt_info/static/js/main.04409c5d.js",
+    "index.html": "/crypt_info/index.html",
+    "main.3209fbff.css.map": "/crypt_info/static/css/main.3209fbff.css.map",
+    "main.04409c5d.js.map": "/crypt_info/static/js/main.04409c5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3209fbff.css",
+    "static/js/main.04409c5d.js"
+  ]
+}
